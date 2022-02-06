@@ -6,6 +6,15 @@
     "cover": "https://raw.githubusercontent.com/Raid-Z/drstone/main/volume24cover.jpg",
     "chapters": {
         
+        "228": {
+            "title": "Life Stone",
+            "volume": "0",
+            "groups": {
+                "discord.gg/drstone": "/proxy/api/imgur/chapter/Gl4AZp5/"
+            },
+            "last_updated": "1644107164"
+        },
+        
         "227": {
             "title": "We are",
             "volume": "0",
